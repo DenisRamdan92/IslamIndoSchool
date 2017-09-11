@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Bell Bootstrap 4 Theme</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+    
+    <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
+    <meta property="og:title" content="">
+    <meta property="og:image" content="">
+    <meta property="og:url" content="">
+    <meta property="og:site_name" content="">
+    <meta property="og:description" content="">
+    
+    <!-- Twitter Cards integration: https://dev.twitter.com/cards/  -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="">
+    <meta name="twitter:title" content="">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:image" content="">
+
+    <!-- Favicon -->
+    <link href="img/favicon.ico" rel="icon">
+  
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Raleway:400,500,700|Roboto:400,900" rel="stylesheet">
+    
+    <!-- Bootstrap CSS File -->
+    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  
+    <!-- Libraries CSS Files -->
+    <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    
+    <!-- Main Stylesheet File -->
+    <link href="css/style.css" rel="stylesheet">
+    
+    <!-- =======================================================
+      Theme Name: Bell
+      Theme URL: https://bootstrapmade.com/bell-free-bootstrap-4-template/
+      Author: BootstrapMade.com
+      Author URL: https://bootstrapmade.com
+    ======================================================= -->
+  </head>
+
+  <body>
+    <!-- Page Content
+    ================================================== -->
+    <!-- Hero -->
+
+    <!-- header -->
+    <header>
+      <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+          <li data-target="#carouselExampleIndicators" data-slide-to="0" class=""></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="1" class="active"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="2" class=""></li>
+        </ol>
+        <div class="carousel-inner" role="listbox">
+          <!-- Slide One - Set the background image for this slide in the line below -->
+          <div class="carousel-item" style="background-image: url('https://i.ytimg.com/vi/OJhOXE8eDJw/maxresdefault_live.jpg')">
+            <div class="carousel-caption d-none d-md-block">
+              <h3>First Slide</h3>
+              <p>This is a description for the first slide.</p>
+            </div>
+          </div>
+          <!-- Slide Two - Set the background image for this slide in the line below -->
+          <div class="carousel-item active" style="background-image: url('http://www.iefnj.org/Portals/0/Al-Hikmah4_3_10/DSC_0351.JPG')">
+            <div class="carousel-caption d-none d-md-block">
+              <h3>Second Slide</h3>
+              <p>This is a description for the second slide.</p>
+            </div>
+          </div>
+          <!-- Slide Three - Set the background image for this slide in the line below -->
+          <div class="carousel-item" style="background-image: url('https://islamichighschoolstudent.files.wordpress.com/2012/02/dsc05144.jpg')">
+            <div class="carousel-caption d-none d-md-block">
+              <h3>Third Slide</h3>
+              <p>This is a description for the third slide.</p>
+            </div>
+          </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div>
+    </header>
+    
+  <!-- Header -->
+  <header id="header">
+    <div class="container">
+    
+      <div id="logo" class="pull-left">
+        <a href="index.html"><img src="img/logo-nav.png" alt="" title="" /></img></a>
+        <!-- Uncomment below if you prefer to use a text image -->
+        <!--<h1><a href="#hero">Bell</a></h1>-->
+      </div>
+        
+      <nav id="nav-menu-container">
+        <ul class="nav-menu">
+          <li><a href="#about">HOME</a></li>
+          <li><a href="#features">TENTANG KAMI</a></li>
+          <li><a href="#portfolio">PENDIDIKAN</a></li>
+          <li><a href="#team">DAKWAH</a></li>
+          <li class="menu-has-children"><a href="">USAHA</a>
+            <ul>
+              <li><a href="#">Drop Down 1</a></li>
+              <li class="menu-has-children"><a href="#">Drop Down 2</a>
+                <ul>
+                  <li><a href="#">Deep Drop Down 1</a></li>
+                  <li><a href="#">Deep Drop Down 2</a></li>
+                  <li><a href="#">Deep Drop Down 3</a></li>
+                  <li><a href="#">Deep Drop Down 4</a></li>
+                  <li><a href="#">Deep Drop Down 5</a></li>
+                </ul>
+              </li>
+              <li><a href="#">Drop Down 3</a></li>
+              <li><a href="#">Drop Down 4</a></li>
+              <li><a href="#">Drop Down 5</a></li>
+            </ul>
+          </li>
+          <li><a href="#contact">CONTACT US</a></li>
+        </ul>
+      </nav><!-- #nav-menu-container -->
+      
+      <nav class="nav social-nav pull-right hidden-sm-down">
+        <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-linkedin"></i></a> <a href="#"><i class="fa fa-envelope"></i></a>
+      </nav>
+    </div>
+  </header><!-- #header -->
+  
+    <!-- About -->
+
+    <section class="about" id="about">
+      <div class="container text-center">
+        <p>
+          Dari Ali R.A ia berkata : Rasulullah SAW bersabda : “Didiklah anak-anak kalian dengan tiga macam perkara yaitu mencintai Nabi kalian dan keluarganya serta membaca Al-Qur’an, karena sesungguhnya orang yang menjunjung tinggi Al-Qur’an akan berada di bawah lindungan Allah, diwaktu tidak ada lindungan selain lindungan-Nya bersama para Nabi dan kekasihnya” (H.R Ad-Dailami).
+        </p>
+
+        <div class="row stats-row">
+          <div class="stats-col text-center col-md-3 col-sm-6">
+            <div class="circle"><span class="fa fa-graduation-cap"></span><br>PENDIDIKAN</div>
+          </div>
+          <div class="stats-col text-center col-md-3 col-sm-6">
+            <div class="circle"><span class="fa fa-comments"></span><br>DAKWAH</div>
+          </div>
+          <div class="stats-col text-center col-md-3 col-sm-6">
+            <div class="circle"><span class="fa fa-cutlery"></span><br>USAHA</div>
+          </div>
+          <div class="stats-col text-center col-md-3 col-sm-6">
+            <div class="circle"><span class="fa fa-handshake-o"></span><br>SOSIAL</div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- /About -->
+   <!-- Portfolio -->
+
+    <section class="portfolio" id="portfolio">
+      <div class="container text-center">
+        <h2>
+          BERITA TERBARU
+        </h2>
+
+        <p>
+          Berita seputar kita.
+        </p>
+      </div>
+
+      <div class="portfolio-grid">
+        <div class="row">
+          <div class="col-lg-3 col-sm-6 col-xs-12">
+            <div class="card card-block">
+              <a href="#"><img alt="" src="img/porf-1.jpg">
+              <div class="portfolio-over">
+                <div>
+                  <h3 class="card-title">
+                    The Dude Rockin'
+                  </h3>
+
+                  <p class="card-text">
+                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
+                  </p>
+                </div>
+              </div></a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-sm-6 col-xs-12">
+            <div class="card card-block">
+              <a href="#"><img alt="" src="img/porf-2.jpg">
+              <div class="portfolio-over">
+                <div>
+                  <h3 class="card-title">
+                    The Dude Rockin'
+                  </h3>
+
+                  <p class="card-text">
+                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
+                  </p>
+                </div>
+              </div></a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-sm-6 col-xs-12">
+            <div class="card card-block">
+              <a href="#"><img alt="" src="img/porf-3.jpg">
+              <div class="portfolio-over">
+                <div>
+                  <h3 class="card-title">
+                    The Dude Rockin'
+                  </h3>
+
+                  <p class="card-text">
+                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
+                  </p>
+                </div>
+              </div></a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-sm-6 col-xs-12">
+            <div class="card card-block">
+              <a href="#"><img alt="" src="img/porf-4.jpg">
+              <div class="portfolio-over">
+                <div>
+                  <h3 class="card-title">
+                    The Dude Rockin'
+                  </h3>
+
+                  <p class="card-text">
+                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
+                  </p>
+                </div>
+              </div></a>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-3 col-sm-6 col-xs-12">
+            <div class="card card-block">
+              <a href="#"><img alt="" src="img/porf-5.jpg">
+              <div class="portfolio-over">
+                <div>
+                  <h3 class="card-title">
+                    The Dude Rockin'
+                  </h3>
+
+                  <p class="card-text">
+                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
+                  </p>
+                </div>
+              </div></a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-sm-6 col-xs-12">
+            <div class="card card-block">
+              <a href="#"><img alt="" src="img/porf-6.jpg">
+              <div class="portfolio-over">
+                <div>
+                  <h3 class="card-title">
+                    The Dude Rockin'
+                  </h3>
+
+                  <p class="card-text">
+                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
+                  </p>
+                </div>
+              </div></a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-sm-6 col-xs-12">
+            <div class="card card-block">
+              <a href="#"><img alt="" src="img/porf-7.jpg">
+              <div class="portfolio-over">
+                <div>
+                  <h3 class="card-title">
+                    The Dude Rockin'
+                  </h3>
+
+                  <p class="card-text">
+                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
+                  </p>
+                </div>
+              </div></a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-sm-6 col-xs-12">
+            <div class="card card-block">
+              <a href="#"><img alt="" src="img/porf-8.jpg">
+              <div class="portfolio-over">
+                <div>
+                  <h3 class="card-title">
+                    The Dude Rockin'
+                  </h3>
+
+                  <p class="card-text">
+                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
+                  </p>
+                </div>
+              </div></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- /Portfolio -->
+    <!-- Call to Action -->
+
+    <section class="cta">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-sm-6 text-lg-left text-center">
+            1
+          </div>
+          <div class="col-lg-3 col-sm-6 text-lg-left text-center">
+            2
+          </div>
+          <div class="col-lg-3 col-sm-6 text-lg-left text-center">
+            3
+          </div>
+          <div class="col-lg-3 col-sm-6 text-lg-left text-center">
+            4
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- /Call to Action -->
+    <footer class="site-footer">
+      <div class="bottom">
+        <div class="container">
+          <div class="row">
+
+            <div class="col-lg-6 col-xs-12 text-lg-left text-center">
+              <p class="copyright-text">
+                © BELL Theme
+              </p>
+              <div class="credits">
+                  <!-- 
+                  All the links in the footer should remain intact. 
+                  You can delete the links only if you purchased the pro version.
+                  Licensing information: https://bootstrapmade.com/license/
+                  Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Bell
+                -->
+                <a href="https://bootstrapmade.com/">Bootstrap Themes</a> by BootstrapMade
+              </div>
+            </div>
+            
+            <div class="col-lg-6 col-xs-12 text-lg-right text-center">
+              <ul class="list-inline">
+                <li class="list-inline-item">
+                  <a href="index.html">Home</a>
+                </li>
+
+                <li class="list-inline-item">
+                  <a href="#about">About Us</a>
+                </li>
+
+                <li class="list-inline-item">
+                  <a href="#features">Features</a>
+                </li>
+
+                <li class="list-inline-item">
+                  <a href="#portfolio">Portfolio</a>
+                </li>
+
+                <li class="list-inline-item">
+                  <a href="#team">Team</a>
+                </li>
+
+                <li class="list-inline-item">
+                  <a href="#contact">Contact</a>
+                </li>
+              </ul>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </footer>
+    <a class="scrolltop" href="#"><span class="fa fa-angle-up"></span></a> <!-- JavaScript
+
+
+    <!-- Required JavaScript Libraries -->
+    <script src="lib/jquery/jquery.min.js"></script>
+    <script src="lib/superfish/hoverIntent.js"></script>
+    <script src="lib/superfish/superfish.min.js"></script>
+    <script src="lib/tether/js/tether.min.js"></script>
+    <script src="lib/stellar/stellar.min.js"></script>
+    <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+    <script src="lib/counterup/counterup.min.js"></script>
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/easing/easing.js"></script>
+    <script src="lib/stickyjs/sticky.js"></script>
+    <script src="lib/parallax/parallax.js"></script>
+    <script src="lib/lockfixed/lockfixed.min.js"></script>
+    
+    <!-- Template Specisifc Custom Javascript File -->
+    <script src="js/custom.js"></script>
+    
+  </body>
+</html>
