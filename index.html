@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Bell Bootstrap 4 Theme</title>
+    <title>Indonesia Islamic School</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -61,22 +61,22 @@
           <!-- Slide One - Set the background image for this slide in the line below -->
           <div class="carousel-item" style="background-image: url('https://i.ytimg.com/vi/OJhOXE8eDJw/maxresdefault_live.jpg')">
             <div class="carousel-caption d-none d-md-block">
-              <h3>First Slide</h3>
-              <p>This is a description for the first slide.</p>
+              <p style="color:white;font-size:30px"><b>BELAJAR AKHLAK</b></p>
+              <p style="color:white"><b>Belajar akhlak dengan cara membaca al-qur'an dan hadist beserta arti dan maksudnya dengan di bimbing oleh guru atau mentor yang profesional.</b></p>
             </div>
           </div>
           <!-- Slide Two - Set the background image for this slide in the line below -->
           <div class="carousel-item active" style="background-image: url('http://www.iefnj.org/Portals/0/Al-Hikmah4_3_10/DSC_0351.JPG')">
             <div class="carousel-caption d-none d-md-block">
-              <h3>Second Slide</h3>
-              <p>This is a description for the second slide.</p>
+              <p style="color:white;font-size:30px"><b>BELAJAR KELOMPOK</b></p>
+              <p style="color:white"><b>Belajar kelompok menerapkan kerjasama dan sosial antar anggota dan orang lain.</b></p>
             </div>
           </div>
           <!-- Slide Three - Set the background image for this slide in the line below -->
           <div class="carousel-item" style="background-image: url('https://islamichighschoolstudent.files.wordpress.com/2012/02/dsc05144.jpg')">
             <div class="carousel-caption d-none d-md-block">
-              <h3>Third Slide</h3>
-              <p>This is a description for the third slide.</p>
+              <p style="color:white;font-size:30px"><b>BELAJAR ILMU ALAM</b></p>
+              <p style="color:white"><b>Belajar ilmu alam sebagai sarana mendekatkan diri kepada Allah dan sebagai bekal di dunia.</b></p>
             </div>
           </div>
         </div>
@@ -103,33 +103,24 @@
         
       <nav id="nav-menu-container">
         <ul class="nav-menu">
-          <li><a href="#about">HOME</a></li>
-          <li><a href="#features">TENTANG KAMI</a></li>
-          <li><a href="#portfolio">PENDIDIKAN</a></li>
-          <li><a href="#team">DAKWAH</a></li>
-          <li class="menu-has-children"><a href="">USAHA</a>
+          <li><a href="#">HOME</a></li>
+          <li><a href="#">TENTANG KAMI</a></li>
+          <li><a href="#">PENDIDIKAN</a></li>
+          <li><a href="#">DAKWAH</a></li>
+          <li class="#"><a href="">USAHA</a>
             <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="menu-has-children"><a href="#">Drop Down 2</a>
-                <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-              <li><a href="#">Drop Down 5</a></li>
+              <li><a href="#">Travel</a></li>
+              <li><a href="#">Pembangunan</a></li>
             </ul>
           </li>
-          <li><a href="#contact">CONTACT US</a></li>
+          <li><a href="#">CONTACT US</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
       
       <nav class="nav social-nav pull-right hidden-sm-down">
-        <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-linkedin"></i></a> <a href="#"><i class="fa fa-envelope"></i></a>
+        <a href="#" onclick="window.open('https://twitter.com/','_blank');"><i class="fa fa-twitter"></i></a>
+        <a href="#" onclick="window.open('https://facebook.com/','_blank');"><i class="fa fa-facebook"></i></a>
+        <a href="#" onclick="window.open('https://google.com/mail/','_blank');"><i class="fa fa-envelope"></i></a>
       </nav>
     </div>
   </header><!-- #header -->
@@ -176,15 +167,15 @@
         <div class="row">
           <div class="col-lg-3 col-sm-6 col-xs-12">
             <div class="card card-block">
-              <a href="#"><img alt="" src="img/porf-1.jpg">
+              <a href="#"><img alt="" src="http://i.huffpost.com/gen/4324776/images/o-ISLAM-facebook.jpg">
               <div class="portfolio-over">
                 <div>
                   <h3 class="card-title">
-                    The Dude Rockin'
+                    Mesjid Raya
                   </h3>
 
                   <p class="card-text">
-                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
+                    Sholat ashar berjamaah..
                   </p>
                 </div>
               </div></a>
@@ -193,15 +184,15 @@
 
           <div class="col-lg-3 col-sm-6 col-xs-12">
             <div class="card card-block">
-              <a href="#"><img alt="" src="img/porf-2.jpg">
+              <a href="#"><img alt="" src="http://i.huffpost.com/gen/4324776/images/o-ISLAM-facebook.jpg">
               <div class="portfolio-over">
                 <div>
                   <h3 class="card-title">
-                    The Dude Rockin'
+                    Mesjid Raya
                   </h3>
 
                   <p class="card-text">
-                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
+                    Sholat ashar berjamaah..
                   </p>
                 </div>
               </div></a>
@@ -210,15 +201,15 @@
 
           <div class="col-lg-3 col-sm-6 col-xs-12">
             <div class="card card-block">
-              <a href="#"><img alt="" src="img/porf-3.jpg">
+              <a href="#"><img alt="" src="http://i.huffpost.com/gen/4324776/images/o-ISLAM-facebook.jpg">
               <div class="portfolio-over">
                 <div>
                   <h3 class="card-title">
-                    The Dude Rockin'
+                    Mesjid Raya
                   </h3>
 
                   <p class="card-text">
-                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
+                    Sholat ashar berjamaah..
                   </p>
                 </div>
               </div></a>
@@ -227,15 +218,15 @@
 
           <div class="col-lg-3 col-sm-6 col-xs-12">
             <div class="card card-block">
-              <a href="#"><img alt="" src="img/porf-4.jpg">
+              <a href="#"><img alt="" src="http://i.huffpost.com/gen/4324776/images/o-ISLAM-facebook.jpg">
               <div class="portfolio-over">
                 <div>
                   <h3 class="card-title">
-                    The Dude Rockin'
+                    Mesjid Raya
                   </h3>
 
                   <p class="card-text">
-                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
+                    Sholat ashar berjamaah..
                   </p>
                 </div>
               </div></a>
@@ -246,15 +237,15 @@
         <div class="row">
           <div class="col-lg-3 col-sm-6 col-xs-12">
             <div class="card card-block">
-              <a href="#"><img alt="" src="img/porf-5.jpg">
+              <a href="#"><img alt="" src="http://i.huffpost.com/gen/4324776/images/o-ISLAM-facebook.jpg">
               <div class="portfolio-over">
                 <div>
                   <h3 class="card-title">
-                    The Dude Rockin'
+                    Mesjid Raya
                   </h3>
 
                   <p class="card-text">
-                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
+                    Sholat ashar berjamaah..
                   </p>
                 </div>
               </div></a>
@@ -263,15 +254,15 @@
 
           <div class="col-lg-3 col-sm-6 col-xs-12">
             <div class="card card-block">
-              <a href="#"><img alt="" src="img/porf-6.jpg">
+              <a href="#"><img alt="" src="http://i.huffpost.com/gen/4324776/images/o-ISLAM-facebook.jpg">
               <div class="portfolio-over">
                 <div>
                   <h3 class="card-title">
-                    The Dude Rockin'
+                    Mesjid Raya
                   </h3>
 
                   <p class="card-text">
-                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
+                    Sholat ashar berjamaah..
                   </p>
                 </div>
               </div></a>
@@ -280,15 +271,15 @@
 
           <div class="col-lg-3 col-sm-6 col-xs-12">
             <div class="card card-block">
-              <a href="#"><img alt="" src="img/porf-7.jpg">
+              <a href="#"><img alt="" src="http://i.huffpost.com/gen/4324776/images/o-ISLAM-facebook.jpg">
               <div class="portfolio-over">
                 <div>
                   <h3 class="card-title">
-                    The Dude Rockin'
+                    Mesjid Raya
                   </h3>
 
                   <p class="card-text">
-                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
+                    Sholat ashar berjamaah..
                   </p>
                 </div>
               </div></a>
@@ -297,15 +288,15 @@
 
           <div class="col-lg-3 col-sm-6 col-xs-12">
             <div class="card card-block">
-              <a href="#"><img alt="" src="img/porf-8.jpg">
+              <a href="#"><img alt="" src="http://i.huffpost.com/gen/4324776/images/o-ISLAM-facebook.jpg">
               <div class="portfolio-over">
                 <div>
                   <h3 class="card-title">
-                    The Dude Rockin'
+                    Mesjid Raya
                   </h3>
 
                   <p class="card-text">
-                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
+                    Sholat ashar berjamaah..
                   </p>
                 </div>
               </div></a>
@@ -315,27 +306,7 @@
       </div>
     </section>
     <!-- /Portfolio -->
-    <!-- Call to Action -->
-
-    <section class="cta">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-3 col-sm-6 text-lg-left text-center">
-            1
-          </div>
-          <div class="col-lg-3 col-sm-6 text-lg-left text-center">
-            2
-          </div>
-          <div class="col-lg-3 col-sm-6 text-lg-left text-center">
-            3
-          </div>
-          <div class="col-lg-3 col-sm-6 text-lg-left text-center">
-            4
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- /Call to Action -->
+    <br>
     <footer class="site-footer">
       <div class="bottom">
         <div class="container">
@@ -343,7 +314,7 @@
 
             <div class="col-lg-6 col-xs-12 text-lg-left text-center">
               <p class="copyright-text">
-                © BELL Theme
+                © BELL Theme | DenisRamdan92
               </p>
               <div class="credits">
                   <!-- 
@@ -359,27 +330,15 @@
             <div class="col-lg-6 col-xs-12 text-lg-right text-center">
               <ul class="list-inline">
                 <li class="list-inline-item">
-                  <a href="index.html">Home</a>
-                </li>
-
-                <li class="list-inline-item">
                   <a href="#about">About Us</a>
                 </li>
 
                 <li class="list-inline-item">
-                  <a href="#features">Features</a>
+                  <a href="#features">Author</a>
                 </li>
 
                 <li class="list-inline-item">
-                  <a href="#portfolio">Portfolio</a>
-                </li>
-
-                <li class="list-inline-item">
-                  <a href="#team">Team</a>
-                </li>
-
-                <li class="list-inline-item">
-                  <a href="#contact">Contact</a>
+                  <a href="#portfolio">Vendors</a>
                 </li>
               </ul>
             </div>
