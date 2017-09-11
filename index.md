@@ -323,7 +323,7 @@
                   Licensing information: https://bootstrapmade.com/license/
                   Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Bell
                 -->
-                <a href="https://bootstrapmade.com/">Bootstrap Themes</a> by BootstrapMade
+                Bootstrap Themes by BootstrapMade
               </div>
             </div>
             
