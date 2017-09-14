@@ -206,21 +206,68 @@ a:hover {
     max-height: 30px;
   }
 }
-
-#header .social-nav {
-  margin-top: 15px;
+/* ==================================================
+  Header1 Styling
+================================================== */
+#header1 {
+  background: #1CB6D1;
+  height: 95px;
 }
 
-#header .social-nav a {
-  font-size: 24px;
-  margin-left: 15px;
+#header1 #logo {
+  margin: 14px 25px 0 0;
+}
+
+#header1 #logo h1 {
+  font-size: 36px;
+  margin: 0;
+  padding: 2px 0;
+  line-height: 1;
+  font-family: "Raleway", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+#header1 #logo h1 a, #header1 #logo h1 a:hover {
   color: #fff;
 }
 
-#header .social-nav a:hover {
-  color: rgba(255, 255, 255, 0.75);
+#header1 #logo img {
+  padding: 0;
+  margin: 0;
+  max-height: 40px;
 }
 
+@media (max-width: 768px) {
+  #header1 {
+    height: 50px;
+  }
+  #header1 #logo {
+    margin: 10px 0 0 0;
+  }
+  #header1 #logo h1 {
+    padding: 2px 0;
+    font-size: 26px;
+  }
+  #header1 #logo img {
+    max-height: 30px;
+  }
+}
+
+#header1 .social-nav {
+  margin-top: 15px;
+}
+
+#header1 .social-nav a {
+  font-size: 15px;
+  margin-left: 10px;
+  color: #fff;
+}
+
+#header1 .social-nav a:hover {
+  color: rgba(255, 255, 255, 0.75);
+}
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
@@ -292,11 +339,21 @@ a:hover {
 }
 
 /* Nav Meu Styling */
-.nav-menu a {
+.nav-menu a{
   padding: 22px 15px 18px 15px;
   text-decoration: none;
   display: inline-block;
   color: #fff;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 15px;
+  outline: none;
+}
+#search {
+  padding: 22px 15px 18px 15px;
+  text-decoration: none;
+  
+  color: #6E6E6E;
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-weight: 300;
   font-size: 15px;
@@ -985,7 +1042,6 @@ body.mobile-nav-active #mobile-nav-toggle {
         padding-top: 56px;
     }
 }
-
 .carousel-item {
     height: 65vh;
     min-height: 300px;
@@ -995,7 +1051,6 @@ body.mobile-nav-active #mobile-nav-toggle {
     -o-background-size: cover;
     background-size: cover;
 }
-
 .portfolio-item {
     margin-bottom: 30px;
 }
