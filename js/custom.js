@@ -115,5 +115,12 @@ $(document).ready(function() {
     }, 1000, 'easeInOutExpo');
     return false;
   });
+  $('.carousel-sync').on('slide.bs.carousel', function(ev) {
+  	var dir = ev.direction == 'left' ? 'prev' : 'next';
+	$('.carousel-sync').not('.sliding').addClass('sliding').carousel(dir);
+  });
+  $('.carousel-sync').on('slide.bs.carousel', function(ev) {
+	$('.carousel-sync').removeClass('sliding');
+});
   
 });

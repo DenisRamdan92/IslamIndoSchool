@@ -86,7 +86,8 @@
 
     <!-- header -->
     <header>
-      <div class="carousel slide" data-ride="carousel">
+      <div class="row stats-row">
+      <div class="carousel slide carousel-sync col-sm-12 col-md-6" data-ride="carousel" data-pause="false">
         <div class="carousel-inner" role="listbox">
           <!-- Slide One - Set the background image for this slide in the line below -->
           <div class="carousel-item" style="background-image: url('https://i.ytimg.com/vi/OJhOXE8eDJw/maxresdefault_live.jpg')">
@@ -107,6 +108,33 @@
             <div class="carousel-caption d-none d-md-block">
               <p style="color:white;font-size:30px"><b>BELAJAR ILMU ALAM</b></p>
               <p style="color:white"><b>Belajar ilmu alam sebagai sarana mendekatkan diri kepada Allah dan sebagai bekal di dunia.</b></p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="carousel slide carousel-sync col-sm-12 col-md-6" data-ride="carousel" data-pause="false">
+          <div class="carousel-inner" role="listbox">
+            <!-- Slide One - Set the background image for this slide in the line below -->
+            <div class="carousel-item" style="background-image: url('https://i.ytimg.com/vi/OJhOXE8eDJw/maxresdefault_live.jpg')">
+              <div class="carousel-caption d-none d-md-block">
+                <p style="color:white;font-size:30px"><b>BELAJAR AKHLAK</b></p>
+                <p style="color:white"><b>Belajar akhlak dengan cara membaca al-qur'an dan hadist beserta arti dan maksudnya dengan di bimbing oleh guru atau mentor yang profesional.</b></p>
+              </div>
+            </div>
+            <!-- Slide Two - Set the background image for this slide in the line below -->
+            <div class="carousel-item active" style="background-image: url('http://www.iefnj.org/Portals/0/Al-Hikmah4_3_10/DSC_0351.JPG')">
+              <div class="carousel-caption d-none d-md-block">
+                <p style="color:white;font-size:30px"><b>BELAJAR KELOMPOK</b></p>
+                <p style="color:white"><b>Belajar kelompok menerapkan kerjasama dan sosial antar anggota dan orang lain.</b></p>
+              </div>
+            </div>
+            <!-- Slide Three - Set the background image for this slide in the line below -->
+            <div class="carousel-item" style="background-image: url('https://islamichighschoolstudent.files.wordpress.com/2012/02/dsc05144.jpg')">
+              <div class="carousel-caption d-none d-md-block">
+                <p style="color:white;font-size:30px"><b>BELAJAR ILMU ALAM</b></p>
+                <p style="color:white"><b>Belajar ilmu alam sebagai sarana mendekatkan diri kepada Allah dan sebagai bekal di dunia.</b></p>
+              </div>
             </div>
           </div>
         </div>
